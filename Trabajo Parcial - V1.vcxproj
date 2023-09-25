@@ -112,8 +112,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="MainSecond.h" />
+    <ClInclude Include="CambiarContra.h" />
+    <ClInclude Include="ConsultarMensajes.h" />
+    <ClInclude Include="Correos.h" />
+    <ClInclude Include="CreacionCuenta.h" />
+    <ClInclude Include="InicioSesion.h" />
+    <ClInclude Include="InterfazCorreo.h" />
+    <ClInclude Include="Lista.h" />
+    <ClInclude Include="mainConfig.h" />
+    <ClInclude Include="MenuInicial.h" />
+    <ClInclude Include="MostrarMensajeElegido.h" />
+    <ClInclude Include="Nodo.h" />
+    <ClInclude Include="NuevoCorreo.h" />
+    <ClInclude Include="OpcionesCorreo.h" />
+    <ClInclude Include="Ordenamiento.h" />
     <ClInclude Include="Persona.h" />
+    <ClInclude Include="VerEnviado.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
